@@ -114,7 +114,7 @@
       <Name>SportsStore.Domain</Name>
     </ProjectReference>
     <ProjectReference Include="..\SportsStore.WebUI\SportsStore.WebUI.csproj">
-      <Project>{1e1d1d06-2bd7-4c1f-b0d0-4bf9cb0a5ac4}</Project>
+      <Project>{8722e8ea-3ab7-47fe-a381-08cb42c9c49b}</Project>
       <Name>SportsStore.WebUI</Name>
     </ProjectReference>
   </ItemGroup>
